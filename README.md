@@ -77,6 +77,7 @@ We integrated **OpenRouter** (using the Llama 3.1 model) to move beyond simple c
 ![AI Insights](assets/Screenshot%20(265).png)
 ![Database Explorer](assets/Screenshot%20(266).png)
 ![SQL Results](assets/Screenshot%20(267).png)
+![AI Query Visualization](assets/Screenshot%20(268).png)
 
 ---
 
